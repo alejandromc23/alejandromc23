@@ -6,7 +6,7 @@
 [![TheoremVault](https://img.shields.io/badge/TheoremVault-111827?style=flat-square&logo=readme&logoColor=white)](https://theoremvault.xyz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-mascort/)
 
-<img src="./profile-map.svg" alt="A map connecting software, mathematics and physics through learning and building" width="100%" />
+<img src="./profile-map.svg" alt="A visual summary of software, mathematics and physics" width="100%" />
 
 ## What I build
 
