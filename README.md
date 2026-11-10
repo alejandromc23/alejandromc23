@@ -1,12 +1,12 @@
 # Alejandro Mascort
 
-> Software engineer interested in the structures behind things: reliable systems, mathematical proofs, physical models and the ideas that shape how we understand the world.
+> Software engineer interested in the structures behind things: reliable systems, mathematical proofs and physical models.
 
 [![Website](https://img.shields.io/badge/amascort.io-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://amascort.io/)
 [![TheoremVault](https://img.shields.io/badge/TheoremVault-111827?style=flat-square&logo=readme&logoColor=white)](https://theoremvault.xyz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-mascort/)
 
-<img src="./profile-map.svg" alt="A map connecting software, mathematics, physics and humanities" width="100%" />
+<img src="./profile-map.svg" alt="A map connecting software, mathematics and physics through learning and building" width="100%" />
 
 ## What I build
 
@@ -29,10 +29,8 @@ Mathematics and physics are not just subjects I list; they are ways of thinking 
 - [**C programming language**](https://github.com/alejandromc23/c-programming-language) — Exercises and experiments based on K&R.
 - [**Forecasting methods comparison**](https://upcommons.upc.edu/bitstream/handle/2117/167732/tfg-memoria.pdf?sequence=1&isAllowed=y) — My industrial-engineering thesis on prediction methods.
 
-## Beyond code
+## The common thread
 
-I keep returning to **philosophy, history and literature** because technical depth is not only about knowing more tools. It is also about learning how to ask better questions, distinguish a model from reality, understand how ideas emerge, and express difficult things precisely.
-
-This profile is a selection of things I have actually built or studied. The rest is in progress.
+I like learning by moving between abstraction and implementation: formalize an idea, build something with it, inspect where the model breaks, and write down what was learned. This profile is a selection of things I have actually built or studied; the rest is in progress.
 
 <sub>[Website](https://amascort.io/) · [TheoremVault](https://theoremvault.xyz/) · [GitHub](https://github.com/alejandromc23/)</sub>
