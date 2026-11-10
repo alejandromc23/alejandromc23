@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Alejandro Mascort: software, mathematics, physics and humanities</title>
+  <desc id="desc">A visual map connecting software, mathematics, physics and humanities.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#17132b"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#75d5ff" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#c09bff" stop-opacity=".55"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#line)" stroke-width="2" opacity=".7">
+    <path d="M190 125 C360 70 430 170 600 210 S850 350 1010 285"/>
+    <path d="M190 300 C350 355 445 250 600 210 S840 100 1010 135"/>
+    <path d="M190 125 C310 205 330 300 190 300"/>
+    <path d="M1010 135 C900 220 900 250 1010 285"/>
+  </g>
+  <g fill="#75d5ff" filter="url(#glow)"><circle cx="190" cy="125" r="6"/><circle cx="190" cy="300" r="6"/><circle cx="1010" cy="135" r="6"/><circle cx="1010" cy="285" r="6"/><circle cx="600" cy="210" r="9" fill="#d5b8ff"/></g>
+  <g font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" fill="#f4f1ff">
+    <text x="64" y="64" font-size="18" letter-spacing="4" fill="#aeb4d0">A PERSONAL MAP</text>
+    <text x="64" y="98" font-size="28" font-weight="600">Things I build, study and return to</text>
+    <g font-size="22" font-weight="600"><text x="104" y="116">SOFTWARE</text><text x="104" y="326">MATHEMATICS</text><text x="924" y="126">PHYSICS</text><text x="900" y="326">HUMANITIES</text></g>
+    <g font-size="15" fill="#b9bfd8"><text x="104" y="145">systems · tools · small products</text><text x="104" y="355">proofs · structure · problem solving</text><text x="924" y="155">models · laws · intuition</text><text x="900" y="355">philosophy · history · literature</text></g>
+    <text x="600" y="202" text-anchor="middle" font-size="18" fill="#e3d8ff">curiosity made concrete</text>
+    <text x="600" y="230" text-anchor="middle" font-size="14" fill="#aeb4d0">understand → build → share → understand better</text>
+  </g>
+</svg>
