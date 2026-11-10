@@ -1,25 +1,39 @@
-# Hi, I'm Alejandro Mascort 👋
+# Alejandro Mascort
 
-I'm a software developer based in **Barcelona** who enjoys building useful software and exploring the ideas behind it. I am also passionate about studying **mathematics and physics**.
+### Senior Backend Engineer · Builder · Mathematics & Physics student
 
-- 🌐 Website: [amascort.io](https://amascort.io/)
-- 💻 GitHub: [@alejandromc23](https://github.com/alejandromc23)
-- 🛠️ Currently exploring: **TypeScript, Rust, systems programming, developer tooling and cloud automation**
+I build software that stays **correct under pressure**.
 
-## What I work with
+My work is focused on event-driven systems, distributed state, subscriptions, billing and payments. Outside of work, I build small products around problems I care about and study mathematics and physics at UNED.
 
-`TypeScript` · `JavaScript` · `Rust` · `Lua` · `C` · `Python` · `PHP` · `Vue` · `React Native` · `Node.js` · `Docker` · `Kubernetes` · `GitHub Actions`
+📍 Barcelona, Spain · 🌐 [amascort.io](https://amascort.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-mascort/)
 
-## Featured projects
+## What I do
 
-- [**dotfiles**](https://github.com/alejandromc23/dotfiles) — Linux workstation configuration and automation.
-- [**nvim.kickstart**](https://github.com/alejandromc23/nvim.kickstart) — A customized Neovim setup for an efficient development workflow.
-- [**multigrep**](https://github.com/alejandromc23/multigrep) — A Rust command-line tool for finding queries across files.
-- [**c-programming-language**](https://github.com/alejandromc23/c-programming-language) — Exercises and experiments based on K&R.
-- [**Escape-Me**](https://github.com/alejandromc23/Escape-Me) — A React Native app for discovering and tracking escape rooms.
+- Design backend systems for products used by hundreds of thousands of people.
+- Work on subscriptions, recurring billing, payments, migrations and reliability.
+- Build focused apps that solve one problem well.
+- Learn in public through notes, proofs, experiments and open-source projects.
 
-## Beyond software
+## Products I build
 
-I like learning through projects, reading about computer science, and connecting practical engineering with mathematics and physics.
+- 🧠 [**Axiom**](https://axiommath.app/) — Daily mental-math puzzles in short, focused sessions.
+- 📚 [**Aprofy**](https://aprofy.app/) — A study planner with timers, daily plans and progress tracking.
+- ⛳ [**Puttsy**](https://puttsy.app/) — A personal golf record built around your own numbers.
+- ∞ [**TheoremVault**](https://theoremvault.xyz/) — Rigorous notes, theorems and exercises across mathematics and physics.
+- 🍅 [**FocuState**](https://focustate.xyz/) — A minimal Pomodoro timer for distraction-free work.
+
+## Open source & experiments
+
+- [**multigrep**](https://github.com/alejandromc23/multigrep) — Recursive search and regex queries over UTF-8 files, written in Rust.
+- [**nvim.kickstart**](https://github.com/alejandromc23/nvim.kickstart) — My Neovim configuration and development environment.
+- [**dotfiles**](https://github.com/alejandromc23/dotfiles) — Linux setup, configuration and automation.
+- [**Escape Me**](https://github.com/alejandromc23/Escape-Me) — Discover and rate escape rooms.
+
+## A little more about me
+
+I enjoy the intersection of **engineering, mathematics and curiosity**: turning complicated systems into understandable pieces, then turning ideas into things people can use.
+
+If you are here because of a project, a shared technical interest, or simply curiosity, welcome.
 
 ![GitHub Metrics](https://github.com/alejandromc23/alejandromc23/blob/main/github-metrics.svg)
