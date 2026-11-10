@@ -1,25 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">Alejandro Mascort: software, mathematics and physics</title>
-  <desc id="desc">A visual map connecting software, mathematics and physics through learning and building.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Build, study, explore</title>
+  <desc id="desc">A visual summary of Alejandro Mascort's interests in software, mathematics and physics.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#17132b"/></linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#75d5ff" stop-opacity=".7"/><stop offset="1" stop-color="#c09bff" stop-opacity=".55"/></linearGradient>
-    <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101827"/>
+      <stop offset="1" stop-color="#1b1730"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#62d4ff"/>
+      <stop offset="1" stop-color="#b89cff"/>
+    </linearGradient>
+    <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#050814" flood-opacity=".35"/>
+    </filter>
   </defs>
-  <rect width="1200" height="420" rx="24" fill="url(#bg)"/>
-  <g fill="none" stroke="url(#line)" stroke-width="2" opacity=".7">
-    <path d="M190 145 C370 60 470 150 600 210 S820 350 1010 270"/>
-    <path d="M190 300 C350 350 455 250 600 210 S820 100 1010 145"/>
-    <path d="M190 145 C330 205 330 270 190 300"/>
-    <path d="M1010 145 C900 190 900 230 1010 270"/>
-  </g>
-  <g fill="#75d5ff" filter="url(#glow)"><circle cx="190" cy="145" r="6"/><circle cx="190" cy="300" r="6"/><circle cx="1010" cy="145" r="6"/><circle cx="1010" cy="270" r="6"/><circle cx="600" cy="210" r="9" fill="#d5b8ff"/></g>
-  <g font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" fill="#f4f1ff">
-    <text x="64" y="64" font-size="18" letter-spacing="4" fill="#aeb4d0">A PERSONAL MAP</text>
-    <text x="64" y="98" font-size="28" font-weight="600">Things I build and study</text>
-    <g font-size="22" font-weight="600"><text x="104" y="136">SOFTWARE</text><text x="104" y="331">MATHEMATICS</text><text x="926" y="136">PHYSICS</text><text x="886" y="331">LEARNING</text></g>
-    <g font-size="15" fill="#b9bfd8"><text x="104" y="165">systems · tools · small products</text><text x="104" y="360">proofs · structure · problem solving</text><text x="926" y="165">models · laws · intuition</text><text x="886" y="360">projects · notes · experiments</text></g>
-    <text x="600" y="202" text-anchor="middle" font-size="18" fill="#e3d8ff">curiosity made concrete</text>
-    <text x="600" y="230" text-anchor="middle" font-size="14" fill="#aeb4d0">understand → build → share → understand better</text>
+  <rect width="1200" height="430" rx="28" fill="url(#background)"/>
+  <path d="M64 112H1136" stroke="#ffffff" stroke-opacity=".12"/>
+  <rect x="64" y="86" width="130" height="3" rx="2" fill="url(#accent)"/>
+  <g font-family="ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <text x="64" y="58" fill="#9da8c2" font-size="14" font-weight="700" letter-spacing="4">ALEXANDRO MASCORT / FIELD NOTES</text>
+    <text x="64" y="166" fill="#f7f8ff" font-size="34" font-weight="700">Build carefully. Study deeply.</text>
+    <text x="64" y="198" fill="#aeb8d0" font-size="17">A small map of the things I make time for.</text>
+
+    <g filter="url(#soft-shadow)">
+      <rect x="64" y="246" width="332" height="122" rx="16" fill="#172337" stroke="#ffffff" stroke-opacity=".12"/>
+      <rect x="434" y="246" width="332" height="122" rx="16" fill="#1c2038" stroke="#ffffff" stroke-opacity=".12"/>
+      <rect x="804" y="246" width="332" height="122" rx="16" fill="#211d3b" stroke="#ffffff" stroke-opacity=".12"/>
+    </g>
+
+    <g fill="#f7f8ff" font-size="13" font-weight="700" letter-spacing="3">
+      <text x="92" y="283">01 / BUILD</text>
+      <text x="462" y="283">02 / STUDY</text>
+      <text x="832" y="283">03 / EXPLORE</text>
+    </g>
+    <g fill="#ffffff" font-size="22" font-weight="650">
+      <text x="92" y="318">Software</text>
+      <text x="462" y="318">Mathematics</text>
+      <text x="832" y="318">Physics</text>
+    </g>
+    <g fill="#aeb8d0" font-size="14">
+      <text x="92" y="346">systems · tools · products</text>
+      <text x="462" y="346">proofs · structure · problems</text>
+      <text x="832" y="346">models · laws · intuition</text>
+    </g>
+    <g fill="#8de0ff">
+      <circle cx="360" cy="275" r="3"/><circle cx="730" cy="275" r="3"/>
+    </g>
+    <text x="600" y="404" text-anchor="middle" fill="#8995b0" font-size="13" letter-spacing="1">understand → make → test → understand better</text>
   </g>
 </svg>
