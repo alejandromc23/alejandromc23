@@ -18,7 +18,7 @@
   <path d="M64 112H1136" stroke="#ffffff" stroke-opacity=".12"/>
   <rect x="64" y="86" width="130" height="3" rx="2" fill="url(#accent)"/>
   <g font-family="ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
-    <text x="64" y="58" fill="#9da8c2" font-size="14" font-weight="700" letter-spacing="4">ALEXANDRO MASCORT / FIELD NOTES</text>
+    <text x="64" y="58" fill="#9da8c2" font-size="14" font-weight="700" letter-spacing="4">ALEJANDRO MASCORT / FIELD NOTES</text>
     <text x="64" y="166" fill="#f7f8ff" font-size="34" font-weight="700">Build carefully. Study deeply.</text>
     <text x="64" y="198" fill="#aeb8d0" font-size="17">A small map of the things I make time for.</text>
 
